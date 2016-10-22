@@ -1,4 +1,0 @@
-Website        :     http://www.nerdorwhat.in/door-bell-for-gamers.html
-Youtube Channel:     https://www.youtube.com/channel/UCsOI8lTrPjIm5A4art-iThg
-Winscp         :     https://winscp.net/download/winscp577setup.exe
-Putty          :     https://bvdl.s3-eu-west-1.amazonaws.com/BvSshServer-Inst.exe
